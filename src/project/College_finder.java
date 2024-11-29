@@ -2,7 +2,7 @@ package project;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-public class   firstcopy {
+public class College_finder {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
